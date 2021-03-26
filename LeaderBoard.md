@@ -1,21 +1,23 @@
-#Leaderboard
+# Leaderboard
 
 This page acts like a leaderboard to check which level you are on. Clear levels and award +50 points :trophy: for each level you complete.
 
 # AY 2020-21 Sem1 and Sem2
 
 **Office Bearers:**
-- President: Jui Pradhan (GitHub: [JuiP](https://github.com/JuiP))
-- Vice-President: Rushabh Musthyala (GitHub: [Rushabh10](https://github.com/Rushabh10))
-- Secretary: Om Kulkarni
-- Treasurer: Anuradha Pandey (GitHub: [pandeyanuradha](https://github.com/pandeyanuradha))
-- Webmaster: Manan Patel (GitHub: [mananpatel320](https://github.com/mananpatel320))
-- Webmaster: Sidharth Anand (GitHub: [sidharth-anand](https://github.com/sidharth-anand))
-- Logistics Chair: Aditya Tomar
-- Events Chair: Hritish Jain
-- Publicity Chair: Akshat Rastogi
-- Content Chair: Kevin Kizhake Kanichery
-- Design Chair: Anamol Bajpai
+|         Position of Responsibility        |            Name           |       GitHub username       |    
+|-------------------------------------------|---------------------------|-----------------------------|
+|President| Jui Pradhan |[JuiP](https://github.com/JuiP)|
+|Vice-President| Rushabh Musthyala |[Rushabh10](https://github.com/Rushabh10)|
+|Secretary| Om Kulkarni | |
+|Treasurer| Anuradha Pandey |[pandeyanuradha](https://github.com/pandeyanuradha)|
+|Webmaster| Manan Patel |[mananpatel320](https://github.com/mananpatel320)|
+|Webmaster| Sidharth Anand |[sidharth-anand](https://github.com/sidharth-anand)|
+|Logistics Chair| Aditya Tomar| |
+|Events Chair| Hritish Jain| |
+|Publicity Chair| Akshat Rastogi| |
+|Content Chair| Kevin Kizhake Kanichery| |
+|Design Chair| Anamol Bajpai| |
 
 **ACM-Members**
 |                   Member                  |           Score           |
