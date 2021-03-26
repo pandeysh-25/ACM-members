@@ -24,16 +24,16 @@ where "url you just copied" (without the quote marks) is the url to this reposit
 
 For example:
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/this-is-you/ACM-members.git
 ```
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+where `this-is-you` is your GitHub username. Here you're copying the contents of the ACM-members repository on GitHub to your computer.
 
 ## Create a branch
 
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd first-contributions
+cd ACM-members
 ```
 Now create a branch using the `git checkout` command:
 ```
@@ -42,13 +42,13 @@ git checkout -b <add-your-new-branch-name>
 
 For example:
 ```
-git checkout -b add-alonzo-church
+git checkout -b level-zero
 ```
-(The name of the branch does not need to have the word *add* in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
+
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Now open `LeaderBoard.md` file in a text editor, change 0 to 50 against your name. Now, save the file.
 
 <img align="right" width="450" src="assets/git-status.png" alt="git status" />
 
@@ -59,12 +59,12 @@ If you go to the project directory and execute the command `git status`, you'll 
 Add those changes to the branch you just created using the `git add` command:
 
 ```
-git add Contributors.md
+git add LeaderBoard.md
 ```
 
 Now commit those changes using the `git commit` command:
 ```
-git commit -m "Add <your-name> to Contributors list"
+git commit -m "<your-name> cleared Level-zero"
 ```
 replacing `<your-name>` with your name.
 
