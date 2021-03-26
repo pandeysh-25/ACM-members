@@ -1,0 +1,60 @@
+#Leaderboard
+
+This page acts like a leaderboard to check which level you are on. Clear levels and award +50 points :trophy: for each level you complete.
+
+# AY 2020-21 Sem1 and Sem2
+
+**Office Bearers:**
+- President: Jui Pradhan (GitHub: [JuiP](https://github.com/JuiP))
+- Vice-President: Rushabh Musthyala (GitHub: [Rushabh10](https://github.com/Rushabh10))
+- Secretary: Om Kulkarni
+- Treasurer: Anuradha Pandey (GitHub: [pandeyanuradha](https://github.com/pandeyanuradha))
+- Webmaster: Manan Patel (GitHub: [mananpatel320](https://github.com/mananpatel320))
+- Webmaster: Sidharth Anand (GitHub: [sidharth-anand](https://github.com/sidharth-anand))
+- Logistics Chair: Aditya Tomar
+- Events Chair: Hritish Jain
+- Publicity Chair: Akshat Rastogi
+- Content Chair: Kevin Kizhake Kanichery
+- Design Chair: Anamol Bajpai
+
+**ACM-Members**
+|                   Member                  |           Score           |
+|-------------------------------------------|---------------------------|
+|Abdul Azeem|0|
+|Akash Roy|0|
+|Animish Prateek|0|
+|Anish Guruvelli|0|
+|Anubhav sharma|0|
+|Anupam Singh|0|
+|Anurodh Chadha|0|
+|Anusha Agarwal|0|
+|Arya Pathak|0|
+|Ayush Agarwal|0|
+|Bathini Akash|0|
+|Bhargava Uppuluri|0|
+|Chaitanya chakka|0|
+|Chinmay Jain|0|
+|Dharmesh Varshney|0|
+|Dhaval Maniar|0|
+|Harsha Neerokonda|0|
+|Jasnoor Kalsi|0|
+|Khushi Biyani|0|
+|Kruti Baraiya|0|
+|Mahavir Chaudhari|0|
+|MEDINI N B|0|
+|Nimish agrawal|0|
+|Parth Kadhane|0|
+|Rijul Dahiya|0|
+|Rishabh Khandelwal|0|
+|Ritika Garg|0|
+|Rohit Sharma Kaipa|0|
+|Sai Srikar Chalamala|0|
+|Samarth Soni|0|
+|Shashank Pandey|0|
+|Shreya Enagnati|0|
+|Shreyas Satapathy|0|
+|Shubhankar Vivek Shastri|0|
+|Sriram|0|
+|Stuti Pachori|0|
+|Subh Priyadarshi|0|
+|VAIBHAV SHUKLA|0|
