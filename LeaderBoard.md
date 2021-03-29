@@ -37,11 +37,11 @@ This page acts like a leaderboard to check which level you are on. Clear levels 
 |Chaitanya chakka|0|
 |Chinmay Jain|0|
 |Dharmesh Varshney|0|
-|Dhaval Maniar|0|
+|Dhaval Maniar|50|
 |Harsha Neerokonda|0|
 |Jasnoor Kalsi|0|
 |Khushi Biyani|0|
-|Kruti Baraiya|0|
+|Kruti Baraiya|50|
 |Mahavir Chaudhari|0|
 |MEDINI N B|0|
 |Nimish agrawal|0|
@@ -54,8 +54,8 @@ This page acts like a leaderboard to check which level you are on. Clear levels 
 |Samarth Soni|0|
 |Shashank Pandey|0|
 |Shreya Enagnati|0|
-|Shreyas Satapathy|0|
-|Shubhankar Vivek Shastri|0|
+|Shreyas Satapathy|50|
+|Shubhankar Vivek Shastri|50|
 |Sriram|50|
 |Stuti Pachori|0|
 |Subh Priyadarshi|0|
