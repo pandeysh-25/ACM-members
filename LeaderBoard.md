@@ -52,7 +52,7 @@ This page acts like a leaderboard to check which level you are on. Clear levels 
 |Rohit Sharma Kaipa|0|
 |Sai Srikar Chalamala|0|
 |Samarth Soni|0|
-|Shashank Pandey|0|
+|Shashank Pandey|50|
 |Shreya Enagnati|0|
 |Shreyas Satapathy|50|
 |Shubhankar Vivek Shastri|50|
